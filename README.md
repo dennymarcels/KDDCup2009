@@ -1,6 +1,6 @@
 # KDD Cup 2009
 
-This repository contains an IPython Notebook having the code for my implementation of the (2009 Knowledge Discovery and Data Mining challenge)[https://www.kdd.org/kdd-cup/view/kdd-cup-2009].
+This repository contains an IPython Notebook having the code for my implementation of the [2009 Knowledge Discovery and Data Mining challenge](https://www.kdd.org/kdd-cup/view/kdd-cup-2009).
 
 From their website:
 
